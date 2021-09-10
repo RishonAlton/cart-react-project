@@ -1,5 +1,5 @@
 # Cart
 
-Project in Action: [https://cart-react-project.netlify.app](https://cart-react-project.netlify.app)
+Project in Action: [https://cartreactproject.netlify.app](https://cartreactproject.netlify.app)
 
 ![Screenshot](./public/Screenshot.png)
